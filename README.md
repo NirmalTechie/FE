@@ -1,2 +1,3 @@
 # wings-project
  ...
+for training
