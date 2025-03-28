@@ -1,3 +1,2 @@
 ofc# wings-project
- ...
-for training
+ ...training
