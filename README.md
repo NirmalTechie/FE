@@ -1,5 +1,2 @@
-
-
-
 ofc# wings-project
  ...training
